@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Brishtir Gaan
+
+This log tracks the cryptographic history and versioning for the song **Brishtir Gaan** (brishtir-gaan).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-27T23:53:01.595477 | `v1` | `66b1725eb97b5fa490c42a9472ae4474a13b99a1f9699d12a0684676d7fc34e8` | `7b8f9f15ff101faa5fc1513907be6319c4bd674bf6149935b34bb8114b8886b6` | `2026-05-27_brishtir-gaan-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
