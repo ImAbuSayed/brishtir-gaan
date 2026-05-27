@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/brishtir-gaan/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Brishtir Gaan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/brishtir-gaan/) |
+| **Get License** | [Get License For Brishtir Gaan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/brishtir-gaan/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> বৃষ্টির এই রাতে মেঘের আড়ালে
+> বুকের গভীরে এক শূন্যতা চলে
+> ভেজা হাওয়ায় খোঁজে আমার এই মন
+> তোমারই ছোঁয়া যেন আধারে দহন
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
